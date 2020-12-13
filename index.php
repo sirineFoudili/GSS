@@ -121,7 +121,7 @@ if (isset($_POST['log']) ){
 		</div>
 		<p style="margin-left:400px;"><b style="color:#2b3856;">GSS:</b>"<b style="color:#ff4500;">G</b>estion des 
 			<b style="color:#ff4500;">S</b>erveurs <b style="color:#ff4500;">S</b>onatrach" <b>/ / /</b>
-			<b style="color:#2b3856;">Copyrights©</b>Damoun Khouloud/Foudili Sirine</p>
+			<b style="color:#2b3856;">Copyrights©</b>Foudili Sirine/Damoun Khouloud</p>
 	</div>
 	
 	
