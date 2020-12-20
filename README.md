@@ -1,8 +1,8 @@
 # GSS
 ![Gestion des serveurs](./Documentation/LOGO.png)
-## Introduction 
+## 
 Cette application a pour but de gérer les serveurs du département “IT” de la société Sonatrach. Elle vise à fournir une structuration bien organisée, capable de faciliter aux ingénieurs du service "système et sécurité" l’accès à toutes les informations concernant les serveurs et leurs contenus, ainsi que les renseignements et les droits d’accès de leurs utilisateurs.
-#### Watch the video
+#### Video demo
 [![Présentation de l'application](./Documentation/videp.png)](https://drive.google.com/file/d/1VhAwSOpXZCs7N8OPnml6eKMF9rJDVtme/view?usp=sharing)
 ## Technologies
 * PHP
@@ -11,7 +11,7 @@ Cette application a pour but de gérer les serveurs du département “IT” de 
 * JavaScript
 * HTML
 * CSS
-## Features
+## Fonctionnalités
 * Gestion de l’accès au contenu selon le statut de l’utilisateur
 * Consultation des serveurs
 * Ajout des fichiers partagés
@@ -23,4 +23,4 @@ Cette application a pour but de gérer les serveurs du département “IT” de 
 * Ajout/ Modification/ Suppression des fichiers partagés  
 * Ajout/ Modification/ Suppression des informations sur les applications
 
-## Setup
+## Installation
