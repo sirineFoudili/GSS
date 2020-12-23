@@ -25,7 +25,7 @@ Cette application a pour but de gérer les serveurs du département “IT” de 
 
 ### Schéma relationnel de la base de données
 
-![Schéma relationnel](./Documentation/diagramme de classe .png)
+![Schéma relationnel](./Documentation/diagramme.png)
 
 
 
