@@ -24,7 +24,10 @@ Cette application a pour but de gérer les serveurs du département “IT” de 
 * Ajout/ Modification/ Suppression des informations sur les applications
 
 ### Schéma relationnel de la base de données
+
 ![Schéma relationnel](./Documentation/diagramme de classe .png)
+
+
 
 
 [Présentation du projet](https://drive.google.com/file/d/1pbYnPferCHb4RYqBFLm-aEljn-fVZDlx/view?usp=sharing)
